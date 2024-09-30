@@ -1,1 +1,12 @@
-# Florr.io
+# Florr.io Anti AFK (Beta)
+
+Ensure you have the following modules:
+1) easyocr
+2) cv2
+3) os
+4) pyautogui
+5) time
+
+---
+
+# BY USING THIS "SCRIPT", YOU ACKNOWLEDGE THAT YOU UNDERSTAND THE RISKS INVOLVED AND AGREE THAT I AM NOT RESPONSIBLE FOR ANY CONSEQUENCES THAT MAY ARISE FROM ITS USE. USE THIS TOOL AT YOUR OWN DISCRETION.
