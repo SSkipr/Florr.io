@@ -1,11 +1,15 @@
 # Florr.io Anti AFK (Beta)
 
-Ensure you have the following modules:
+Ensure you have the following  ng modules:
 1) easyocr
 2) cv2
 3) os
 4) pyautogui
 5) time
+6) urllib.request
+7) urlopen
+8) bs4
+9) BeautifulSoup
 
 ---
 
